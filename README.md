@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm Ermias Ambachew</h1>
+<h1 align="center" >👨🏾‍💻</h1>
+
+<h1 align="left">Hello 🖥️ World, I'm Ermias Ambachew ✅</h1>
 <h3 align="left">A passionate web and mobile app developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiasamb&label=Profile%20views&color=0eb44d&style=flat" alt="ermiasamb" /> </p>
@@ -13,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18B82FvwG0YKBGz7PjhCX1T8h5WNfITwN/view?usp=sharing](https://drive.google.com/file/d/18B82FvwG0YKBGz7PjhCX1T8h5WNfITwN/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/ermias-ambachew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ermias-ambachew" height="30" width="40" /></a>
 </p>
